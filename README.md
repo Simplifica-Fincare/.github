@@ -1,8 +1,8 @@
-#Simplifica Financas - Foco na simplicidade
+# Simplifica Financas - Foco na simplicidade
 
-##Objetivo
+## Objetivo
 
-###MVP1 - Primeira versão
+### MVP1 - Primeira versão
  - Lançamento despesas e receitas
 	- Cria API
 	- Criar banco de dados
@@ -13,7 +13,7 @@
  - Interface
 
 
-###MVP2 - Segunda versão
+### MVP2 - Segunda versão
  - Objetivos
  - Contas bancarias
  - Cartões de crédito
